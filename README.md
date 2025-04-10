@@ -1,2 +1,1 @@
-# yamm
-y
+# yammy
